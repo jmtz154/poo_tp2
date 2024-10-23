@@ -1,0 +1,35 @@
+C:\Users\Juan\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.exe
+C:\Users\Juan\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.deps.json
+C:\Users\Juan\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.runtimeconfig.json
+C:\Users\Juan\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.dll
+C:\Users\Juan\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.pdb
+C:\Users\Juan\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.AssemblyInfo.cs
+C:\Users\Juan\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.dll
+C:\Users\Juan\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\refint\Ej01.dll
+C:\Users\Juan\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.pdb
+C:\Users\Juan\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.genruntimeconfig.cache
+C:\Users\Juan\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\ref\Ej01.dll
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.AssemblyInfoInputs.cache
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.AssemblyInfo.cs
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.csproj.CoreCompileInputs.cache
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.dll
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej01\obj\Debug\net8.0\refint\Ej01.dll
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.exe
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.deps.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.runtimeconfig.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\bin\Debug\net8.0\Ej01.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.AssemblyInfoInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.AssemblyInfo.cs
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.csproj.CoreCompileInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\refint\Ej01.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\Ej01.genruntimeconfig.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej01\obj\Debug\net8.0\ref\Ej01.dll

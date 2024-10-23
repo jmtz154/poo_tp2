@@ -1,0 +1,15 @@
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\bin\Debug\net8.0\Ej11_b.exe
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\bin\Debug\net8.0\Ej11_b.deps.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\bin\Debug\net8.0\Ej11_b.runtimeconfig.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\bin\Debug\net8.0\Ej11_b.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\bin\Debug\net8.0\Ej11_b.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\Ej11_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\Ej11_b.AssemblyInfoInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\Ej11_b.AssemblyInfo.cs
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\Ej11_b.csproj.CoreCompileInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\Ej11_b.sourcelink.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\Ej11_b.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\refint\Ej11_b.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\Ej11_b.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\Ej11_b.genruntimeconfig.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej11_b\obj\Debug\net8.0\ref\Ej11_b.dll

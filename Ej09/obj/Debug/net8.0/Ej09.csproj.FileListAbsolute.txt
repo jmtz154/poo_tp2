@@ -1,0 +1,15 @@
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\Ej09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\Ej09.AssemblyInfoInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\Ej09.AssemblyInfo.cs
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\Ej09.csproj.CoreCompileInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\Ej09.sourcelink.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\bin\Debug\net8.0\Ej09.exe
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\bin\Debug\net8.0\Ej09.deps.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\bin\Debug\net8.0\Ej09.runtimeconfig.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\bin\Debug\net8.0\Ej09.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\bin\Debug\net8.0\Ej09.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\Ej09.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\refint\Ej09.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\Ej09.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\Ej09.genruntimeconfig.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej09\obj\Debug\net8.0\ref\Ej09.dll

@@ -1,0 +1,15 @@
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\bin\Debug\net8.0\Ej08.exe
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\bin\Debug\net8.0\Ej08.deps.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\bin\Debug\net8.0\Ej08.runtimeconfig.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\bin\Debug\net8.0\Ej08.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\bin\Debug\net8.0\Ej08.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\Ej08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\Ej08.AssemblyInfoInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\Ej08.AssemblyInfo.cs
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\Ej08.csproj.CoreCompileInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\Ej08.sourcelink.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\Ej08.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\refint\Ej08.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\Ej08.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\Ej08.genruntimeconfig.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej08\obj\Debug\net8.0\ref\Ej08.dll

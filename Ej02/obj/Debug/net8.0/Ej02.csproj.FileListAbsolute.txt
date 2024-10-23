@@ -1,0 +1,21 @@
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.AssemblyInfoInputs.cache
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.AssemblyInfo.cs
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.csproj.CoreCompileInputs.cache
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.dll
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej02\obj\Debug\net8.0\refint\Ej02.dll
+G:\My Drive\[] Cursos\(EL127) FPOO 2024 - Fundamentos de la Programación Orientada A Objetos\Practicas\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\bin\Debug\net8.0\Ej02.exe
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\bin\Debug\net8.0\Ej02.deps.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\bin\Debug\net8.0\Ej02.runtimeconfig.json
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\bin\Debug\net8.0\Ej02.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\bin\Debug\net8.0\Ej02.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.AssemblyInfoInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.AssemblyInfo.cs
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.csproj.CoreCompileInputs.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\obj\Debug\net8.0\refint\Ej02.dll
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.pdb
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\obj\Debug\net8.0\Ej02.genruntimeconfig.cache
+C:\Users\Juanma\source\repos\POO-TP02\Ej02\obj\Debug\net8.0\ref\Ej02.dll
